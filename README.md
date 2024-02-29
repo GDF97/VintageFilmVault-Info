@@ -33,10 +33,25 @@ Requisitos necessários
 
 #### Como testar o projeto?
 
-Primeiro você deve ter os requisitos acima, após isso você deve baixar o BackEnd e jogar na pasta "xampp/htdocs/" (deve ficar +/- assim "xampp/htdocs/VintageFilmVault-backend"), após isso você dever executar o script do banco de dados para assim criar as tabelas entre outras coisas necessárias para funcionar bonitinho o backend
+Antes de iniciar a configuração do projeto, é necessário garantir que os requisitos mencionados anteriormente estejam devidamente atendidos. Uma vez confirmado, siga os passos abaixo para configurar e executar o sistema:
 
-Após baixar o backend você deve baixar o FrontEnd, que vai estar separada em duas pastas (Administrador e Cliente), e dar npm install nas duas pastas, após a instalação das dependencias do projeto, você deverá rodar o projeto com o seguint CLI npm run dev, após rodar o front end você deve ligar o Apache e o PHP(xampp), após isso o projeto deve estar rodando sem nenhum problema na sua máquina.
+1. Back-End:
 
-Caso não queira rodar o projeto na sua máquina irei anexar
+   - Faça o download do Back-End e mova a pasta para o diretório "xampp/htdocs/" (por exemplo, "xampp/htdocs/VintageFilmVault-backend").
+   - Execute o script do banco de dados para criar as tabelas e realizar outras configurações essenciais para o funcionamento adequado do Back-End.
+
+2. Front-End:
+
+   - Baixe o Front-End, o qual estará separado em duas pastas (Administrador e Cliente).
+
+   - Execute o comando npm install nas duas pastas para instalar as dependências do projeto.
+
+   - Após a instalação bem-sucedida, inicie o projeto usando o comando npm run dev.
+
+   - Certifique-se de ligar o Apache e o PHP (XAMPP) para garantir o funcionamento correto do Front-End.
+
+   - Após concluir essas etapas, o projeto deverá ser executado sem problemas em sua máquina local.
+
+Caso você opte por não rodar o projeto em sua máquina, fornecerei dois vídeos anexados, um demonstrando a funcionalidade da parte do sistema WEB e outro exibindo o aplicativo em execução em uma máquina virtual.
 
 ---
